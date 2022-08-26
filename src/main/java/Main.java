@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // your code here
+        Logger.getInstance().log("Sample output line 1");
+        Logger.getInstance().log("Second line of sample output");
     }
 }
